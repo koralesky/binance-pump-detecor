@@ -1,0 +1,13 @@
+api_config.json
+*.pyc
+__pycache__/pricechange.cpython-36.pyc
+__pycache__/pricegroup.cpython-36.pyc
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
